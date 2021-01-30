@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "styles.scss",
+        "scss/base/_variables.scss",
+        "scss/modules/components/Header/_Header.scss",
+        "scss/modules/components/algoritmos/_Algoritmos.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
