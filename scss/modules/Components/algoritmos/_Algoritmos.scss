@@ -1,0 +1,35 @@
+.algorithms{
+        h1{
+            color: $second-Color;
+            margin: 40px 0 80px 0;
+            text-decoration: underline;
+        }
+    &__block{
+
+        article{
+            border-bottom: 1px solid $second-Color;
+        }
+        
+
+        &__info{
+            margin-bottom: 50px;
+            h2{
+                color: $first-Color;
+                text-align: center;
+            }
+
+            ol{
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                gap: 10px;
+            }
+            ol>li{
+                color: $text-Popular;
+                
+            }
+        }
+    }
+
+}
